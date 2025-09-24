@@ -4,7 +4,6 @@ function BrowsePage () {
     return (
         
         <Browse/>
-        // <ComponentForm/> 
     )
 }
 export default BrowsePage
