@@ -19,7 +19,7 @@ function HomePage() {
             alt="Picture of the author"
             width={120}
             height={100}
-           style= {{'borderRadius' :'50%' , 'marginTop ' : "20px"}} 
+           style= {{'borderRadius' :'50%' , 'marginTop ' : "27px"}} 
           />
          </Home>
 

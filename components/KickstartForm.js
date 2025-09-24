@@ -34,13 +34,11 @@ function KickstartForm({ showForm, setShowForm }) {
   }
   
   if (!form) {
-    return (
-      <p>''</p>
-    )
+      return null ;
   }
   
   return (
-    <div className='form_styles'>
+    <div className="form_styles">
       <form>
         <h3>Book Session</h3>
 

@@ -37,7 +37,7 @@ function ComponentPage() {
              <div className = 'paragraph1'>
            <Home>
                 <p>
-                    Brink your existing componens and let's refactor them. Learn the best pratices to create scalable and <br/>
+                    Brink your existing componens and let&apos;s refactor them. Learn the best pratices to create scalable and <br/>
                     reusable components .
                 </p>
             </Home>

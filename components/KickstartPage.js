@@ -37,13 +37,13 @@ import KickstartForm from '@/components/KickstartForm' ;
                 <p>
                     Starting with React can be dauting <br/>
                     Yet, with the right guidance. It can be an exhilarating journey .<br/>
-                    In this session, we will begin by demestifying React's core philosophy. <br/>
+                    In this session, we will begin by demestifying React&apos;s core philosophy. <br/>
                     What was React created ? <br/>
                     What problems does it solve in the world of web development ? <br/>
-                    Together we'll delve into the virtual DOM , JSX , and component based architecture . <br/>
-                    No need to worry about the jargon; I'll breack everything down step by step . <br/>
-                    We'll touch on the importance of unidirectioanl data flow and the component lifecycle . <br/>
-                    We'll set up a new React project Together . <br/>
+                    Together we&apos;ll delve into the virtual DOM , JSX , and component based architecture . <br/>
+                    No need to worry about the jargon; I&apos;ll breack everything down step by step . <br/>
+                    We&apos;ll touch on the importance of unidirectioanl data flow and the component lifecycle . <br/>
+                    We&apos;ll set up a new React project Together . <br/>
                     By the end of our session, you will have a clear understanding and a roadmap tallored just for you , to aid .
                 </p>
             </Home>

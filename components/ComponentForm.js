@@ -27,17 +27,15 @@ function ComponentForm  ({show,setShow}) {
     console.log('nom :' , name)
     console.log('email :' , email)
        setTimeout (() => setForm (false) , 100) ; 
-   setName('') ;
-   setEmail('') ;
+       setName('') ;
+       setEmail('') ;
 
     }
   
   }
   
   if(!form) {
-    return (
-      <p>''</p>
-    )
+      return null ;
   }
     return(
         <div className = 'form_styles'>

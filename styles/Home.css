@@ -6,7 +6,7 @@ h1, h4 , p{
 .home_page {
     display : flex ; 
     flex-direction : row ; 
-    justify-content : center ; 
+    /* justify-content : center ;  */
     gap :50px ; 
 }
 

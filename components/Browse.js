@@ -26,7 +26,7 @@ function Browse() {
      
      <div>
       <h1>Available mentoring sessions </h1>
-      <p>From an one-on-one introduction to React's boosic all the way up to a deep dive into state mechanics -we got just this right session for you!</p>
+      <p>From an one-on-one introduction to React&apos;s boosic all the way up to a deep dive into state mechanics -we got just this right session for you!</p>
      </div>
      
       {activePage ? (
