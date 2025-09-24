@@ -1,0 +1,36 @@
+/* The kickstart styles  */
+.kickstart_styles {
+    margin:20px;
+    display : flex ;
+    gap : 49px; 
+    justify-content : center ;
+}
+
+.kickstart_styles h1 {
+    color :white ;
+}
+
+.paragraph , p{ 
+    color : white ;
+    line-height : 2.8;
+}
+
+.paragraph {
+    width : 800px;
+    /* height : 1200px; */
+    padding : 20px ;
+    border : 1px solid transparent;
+    background-color : #252422;
+    margin-left:260px;
+    margin-top:80px;
+    
+}
+
+.page_btn{
+    cursor : pointer ;
+    padding :5px 7px; 
+    background :  #5e548e;
+    color : black;
+    position : relative ;
+    left :7px;
+}

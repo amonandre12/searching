@@ -1,0 +1,36 @@
+/* The Header styles  */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 35px;
+    /* background-color: #333; */
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.react_mentoring {
+  max-height: 50px;
+  margin-left : 110px;
+}
+
+header nav {
+  display:flex ;
+  margin: 0 15px;
+  gap: 35px;
+}
+
+header nav  a:focus {
+  border-bottom : 2px solid blue ;
+}
+
+.upcoming {
+  padding :  5px 15px;
+ background-color: #5e548e;
+  color: black ; 
+}
+
+header a{
+  text-decoration: none;
+  font-size: 20px;
+}

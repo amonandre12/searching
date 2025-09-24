@@ -1,0 +1,53 @@
+/* The kickstart form styles */
+.form_styles{
+    background-color: #5e548e;
+    width: 30%; 
+    border-radius : 10px;
+    margin-right:120px;
+    position : fixed ; 
+    display : flex ; 
+    justify-content : center ;
+    z-index :1000 ; 
+    align-items :center ; 
+    margin-bottom:360px;
+    bottom: -210px;
+}
+
+
+.btn {
+    display : flex ; 
+    gap :20px;
+    position : relative ; 
+    left: 109px;
+}
+
+input {
+    width :330px ;
+    height : 29px;
+    border-radius : 5px;
+    padding:3px;
+    border : 1px solid #ccc;
+    margin-bottom:15px;
+    font-size :16px;
+    transition : 0.3s ;
+
+}
+
+input:focus {
+    border-color : #4a90e2;
+    outline :none ; 
+    box-shadow : 0 0 6px rgba(74 , 144, 226 , 0.5)
+}
+
+form {
+    padding :10px;
+    margin :20px ;
+    max-width :400px;
+}
+
+button {
+    cursor : pointer ;
+    padding :5px 7px; 
+    background :  #5e548e;
+    color : black;
+}

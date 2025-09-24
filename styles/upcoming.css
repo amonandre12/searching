@@ -1,0 +1,68 @@
+/* The upcoming styles  */
+.upcoming_styles1 , .upcoming_styles2 {
+    display : flex ; 
+    gap : 106px;
+    border : 1px solid ;
+    background-color : #252422;
+    border-radius : 5px; 
+    padding :2px; 
+}
+
+.cancel_btn{ 
+    position : relative;
+    left: 390px ;
+    bottom: 60px; 
+    cursor : pointer ;
+} 
+
+.upcoming_styles1 p , h3 , code, .upcoming_styles2 p , h3 , code{ 
+    font-size : 15px ;
+    margin : 10px; 
+    color : white ;
+} 
+
+.upcoming_styles1 span {
+    /* margin-left:-29px;  */
+}
+
+.upcoming_styles2 span{
+    margin-bottom : 130px; 
+    position : relative ; 
+    top : 20px ;
+    left : 20px; 
+    cursor : pointer ; 
+}
+
+
+.upcoming_styles2 {
+    margin-top:30px ;
+}
+
+
+button {
+    cursor : pointer ;
+    padding :5px 10px; 
+    background :  #5e548e;
+    color : black;
+}
+
+.close_btn {
+ position : absolute  ; 
+ left: 83%;
+ margin-top:23px;
+}
+
+.upcoming_content {
+    background-color: #5e548e;
+    width: 40%; 
+    border-radius : 10px;
+    margin:90px;
+    padding :17px;
+    height : 384px ; 
+    position : fixed ; 
+    z-index :1000 ; 
+    left : 310px; 
+    top : 10px ;
+  
+    
+}

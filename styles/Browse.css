@@ -1,0 +1,46 @@
+/* The Browse page styles */
+.browse_page {
+    display :grid ; 
+    grid-template-columns : repeat(3, 1fr) ;
+    gap: 1px;
+    margin :20px;
+    justify-items :center;
+    row-gap :30px;
+    padding : 20px;
+    border : 1px solid  #ccc;
+}
+
+.browse_page p , h3{
+    color : white ;
+}
+
+.images_card {
+    /* background: #f5f5f5; */
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.images_card Image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.images_card:hover {
+    transform: scale(1.05);
+}
+
+.browse_btn {
+    position :relative;
+    right: -210px;
+    cursor : pointer ;
+    padding :5px 7px; 
+    background :  #5e548e;
+    color : black;
+}
+
+.browse_page Image {
+    /* background-color: #282c34; */
+    /* background: orange; */
+}
